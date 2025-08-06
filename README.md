@@ -1,6 +1,6 @@
 Ethiopian E-commerce House Rent Data Analysis
 
-This project analyzes house and condo rental data scraped from [Jiji Ethiopia](https://jiji.com.et), focusing on trends, pricing, and property distribution in Addis Ababa and other cities.
+This project analyzes house and condo rental data scraped from [Jiji Ethiopia](https://jiji.com.et), focusing on trends, pricing, and property distribution in Addis Ababa.
 
  Project Overview
 
