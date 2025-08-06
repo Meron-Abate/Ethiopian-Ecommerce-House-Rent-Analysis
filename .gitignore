@@ -1,0 +1,16 @@
+chromedriver.exe
+cleaned_data_sample.csv
+jiji_condos_normalized.csv
+jiji_condos_normalized.json
+jiji_condos.csv
+
+jiji_condos.json
+jiji_scrapped_raw.csv
+jiji_scrapped_raw.json
+LICENSE.chromedriver
+THIRD_PARTY_NOTICES.chromedriver
+
+/venv
+
+*.pyc
+__pycache__/
