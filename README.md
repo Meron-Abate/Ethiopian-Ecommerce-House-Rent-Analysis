@@ -20,5 +20,4 @@ Tech Stack
 - Python 
 - Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook
-- Anaconda
-- Git & GitHub
+
